@@ -1,6 +1,18 @@
 a. The dataset or a canonical reference to it (i.e., if the dataset is too large)  
-                                               See netflix1.csv
+  See netflix1.csv
+
 b. Software that generates a multidimensional data visualization following guidance provided in the class  
-                                               See main.py. 
-                                               Libraries:  
+  See main.py. 
+  Required Libraries: pandas 2.2.3, plotly 5.24.1
+
 c. Your description in one to two paragraphs of the choices you made, and why you selected the particular type of visualization that you did.  
+  For this assignment, I used Python for its ease-of-use and abundant data processing / visualization libraries. In terms of data processing,  
+  I used pandas for a significant portion of the data filtering. I also used Plotly which is an easy-to-use framework  
+  that can create visualizations in Python.
+
+  I created a couple types of visualizations. This data provides many different categories of data, 10 different categories, so I wanted  
+  to see a few different trends. I focused my visualizations around the idea of seeing how "Western-based" the content on Netflix is.  
+  I used a bubble map overlayed on a map of the world to visualize content amounts per country. For something more exact, I created a 
+  bar graph to list the top 10 countries by amount of content. The content on Netflix is heavily US-based which isn't surprising, but  
+  an interesting point is that India is a strong contender on Netflix. They hold 2nd place for total amount of content.
+
