@@ -11,8 +11,12 @@ c. Your description in one to two paragraphs of the choices you made, and why yo
   that can create visualizations in Python.
 
   I created a couple types of visualizations. This data provides many different categories of data, 10 different categories, so I wanted  
-  to see a few different trends. I focused my visualizations around the idea of seeing how "Western-based" the content on Netflix is.  
-  I used a bubble map overlayed on a map of the world to visualize content amounts per country. For something more exact, I created a 
-  bar graph to list the top 10 countries by amount of content. The content on Netflix is heavily US-based which isn't surprising, but  
-  an interesting point is that India is a strong contender on Netflix. They hold 2nd place for total amount of content.
+  to see a few different trends. I focused my visualizations around the idea of seeing how "Western-based" the content on Netflix is. This  
+  is because I want to see how the rise in popularity with Japanese and South Korean content in recent years has impacted the content amounts on Netflix.
+  I used a bubble map overlayed on a map of the world to visualize content amounts per country. This isn't an extremely informative  
+  visualization, but I chose it because I think it provides an interesting and intuitive sense for the data. For something more exact, 
+  I created a bar graph to list the top 10 countries by amount of content. The content on Netflix is heavily US-based which isn't surprising, 
+  but an interesting point is that India is a strong contender on Netflix. They hold 2nd place for total amount of content. Japan and SK make
+  the top 10 but with only a few hundred titles each. Seeing this, I created another visualization graphing the amount of content from
+  India, Japan, and SK added to Netflix by year to see how they compare.
 
